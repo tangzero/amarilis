@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 2e0a3978-47d0-4072-a6bb-fc3fbcd5bc69)
+
+  (paper "A4")
+
+  (title_block
+    (title "Amarilis Keyboard")
+    (date "2023-03-17")
+    (rev "1.0")
+    (company "@tangzero")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
