@@ -1,6 +1,6 @@
 [submodule "pcb/deps/RP2040-Zero-Kicad"]
 	path = pcb/deps/RP2040-Zero-Kicad
 	url = https://github.com/CountParadox/RP2040-Zero-Kicad.git
-[submodule "pcb/deps/keyswitch-kicad-library"]
-	path = pcb/deps/keyswitch-kicad-library
-	url = https://github.com/perigoso/keyswitch-kicad-library.git
+[submodule "pcb/deps/kbd"]
+	path = pcb/deps/kbd
+	url = git@github.com:tangzero/kbd.git
