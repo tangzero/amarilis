@@ -1,4 +1,6 @@
-pcb/amarilis.kicad_prl
-pcb/amarilis-backups
-pcb/_autosave-amarilis.kicad_sch
+**/*.kicad_prl
+**/*-backups
+**/*_autosave*
 *.Identifier
+pcb/bottom-plate.kicad_pro
+pcb/top-plate.kicad_pro

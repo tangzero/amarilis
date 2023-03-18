@@ -380,13 +380,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 48530217-ed1c-4ab2-bb24-24c4d45fb26d)
+      (tstamp 60c39156-27e4-4ac1-bc0c-9d3d482cd1c6)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 009c83cb-8f07-4e0f-8d37-3f82edb9fda3)
+      (tstamp 2507db3a-076f-4167-92f6-ae8b526e5fd4)
     )
-    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 028daf75-3df1-409d-a284-00945467c120))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 9aa1bbcd-fde2-4dcc-889a-72d982a5dd79))
   )
 
   (footprint "kbd:CherryMX_1u" (layer "F.Cu")
@@ -740,13 +740,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 48530217-ed1c-4ab2-bb24-24c4d45fb26d)
+      (tstamp f841a1a9-0a93-4d7a-a7ca-4846ec304ccf)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 009c83cb-8f07-4e0f-8d37-3f82edb9fda3)
+      (tstamp d1857c1f-b558-4348-9442-910a9be56d3f)
     )
-    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 028daf75-3df1-409d-a284-00945467c120))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 8bf15513-0d2a-4c2c-aed3-87c17abba37a))
   )
 
   (footprint "kbd:D3_TH" (layer "F.Cu")
@@ -1347,13 +1347,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 48530217-ed1c-4ab2-bb24-24c4d45fb26d)
+      (tstamp e74874f7-2e87-493f-9c24-09adf932516c)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 009c83cb-8f07-4e0f-8d37-3f82edb9fda3)
+      (tstamp 077772b1-424d-4324-856f-809c82e57b44)
     )
-    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers *.Cu *.Mask) (tstamp 028daf75-3df1-409d-a284-00945467c120))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers *.Cu *.Mask) (tstamp b5770a21-5312-4bf8-be24-8fcfd4bc20e6))
   )
 
   (footprint "kbd:CherryMX_1u" (layer "F.Cu")
@@ -1400,13 +1400,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 48530217-ed1c-4ab2-bb24-24c4d45fb26d)
+      (tstamp 3e6fe574-eda3-48f9-a500-3667c4e1754b)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 009c83cb-8f07-4e0f-8d37-3f82edb9fda3)
+      (tstamp 0129818a-5a05-4097-8820-3955b14522de)
     )
-    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 028daf75-3df1-409d-a284-00945467c120))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 1daaee90-0468-45d2-82eb-2419f19321c2))
   )
 
   (footprint "kbd:D3_TH" (layer "F.Cu")
@@ -1702,13 +1702,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 48530217-ed1c-4ab2-bb24-24c4d45fb26d)
+      (tstamp 6908848e-1106-48c7-84a0-bf717f753f4e)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 009c83cb-8f07-4e0f-8d37-3f82edb9fda3)
+      (tstamp efc34d20-4352-4653-8cc0-262533582fae)
     )
-    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 028daf75-3df1-409d-a284-00945467c120))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 3ae40ebd-08f7-4cba-a5a7-fea77d1a4893))
   )
 
   (footprint "kbd:spacer_m2" (layer "F.Cu")
@@ -1719,13 +1719,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 48530217-ed1c-4ab2-bb24-24c4d45fb26d)
+      (tstamp c5e01370-ce91-4402-b7f6-3e8fde1b4376)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 009c83cb-8f07-4e0f-8d37-3f82edb9fda3)
+      (tstamp d167eee5-b12c-426e-a1df-7c5a288be924)
     )
-    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 028daf75-3df1-409d-a284-00945467c120))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 62bbafcd-97df-49aa-9371-620374d68ed6))
   )
 
   (footprint "kbd:D3_TH" (layer "F.Cu")
@@ -2898,13 +2898,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 48530217-ed1c-4ab2-bb24-24c4d45fb26d)
+      (tstamp e50f6136-7299-4f60-ba8b-7424a2f8a910)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 009c83cb-8f07-4e0f-8d37-3f82edb9fda3)
+      (tstamp 25a2616f-f751-4137-a0af-0254035b32e3)
     )
-    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 028daf75-3df1-409d-a284-00945467c120))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 8e4f8633-6577-4dc8-baae-2bca6232fc85))
   )
 
   (footprint "kbd:D3_TH" (layer "F.Cu")
@@ -3081,13 +3081,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 48530217-ed1c-4ab2-bb24-24c4d45fb26d)
+      (tstamp a307939f-f529-4e25-8b5a-c9db42f6adab)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 009c83cb-8f07-4e0f-8d37-3f82edb9fda3)
+      (tstamp 6523a93c-93c3-4f2a-b909-8daa1e497ba3)
     )
-    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp 028daf75-3df1-409d-a284-00945467c120))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 4.3 4.3) (drill 4.3) (layers F&B.Cu *.Mask) (tstamp d0b03c56-8284-477a-8bc4-c1377446816e))
   )
 
   (footprint "kbd:CherryMX_1u" (layer "F.Cu")
@@ -3366,6 +3366,9 @@
   (gr_line (start 45 44.2) (end 134.7 60.3) (layer "Edge.Cuts") (width 0.1) (tstamp e01ef4fa-1319-4bd2-a328-7326b53da23f))
   (gr_arc (start 39.2 47.8) (mid 41.456213 44.962788) (end 45 44.2) (layer "Edge.Cuts") (width 0.1) (tstamp e51b3da0-dedc-431d-bd01-26dd276ab3fb))
   (gr_arc (start 251.05 44.2) (mid 254.593787 44.962788) (end 256.85 47.8) (layer "Edge.Cuts") (width 0.1) (tstamp f83cb339-676d-4f6a-9a34-c066d2337780))
+  (gr_text "Amarilis Keyboard v1.0\n@tangzero" (at 147.75 153.25) (layer "F.SilkS") (tstamp 68b453c0-c336-4900-8c2e-76e2b901732d)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
 
   (segment (start 130.6 94.559188) (end 132.459188 92.7) (width 0.25) (layer "F.Cu") (net 1) (tstamp 176432f4-9e53-49ed-a8e2-2f5f3e668b75))
   (segment (start 150.115 92.7) (end 150.565 92.25) (width 0.25) (layer "F.Cu") (net 1) (tstamp 21731231-faaf-4f87-a469-669d46a72b8e))

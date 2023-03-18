@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "RP2040-Zero-Kicad")(type "KiCad")(uri "${KIPRJMOD}/deps/RP2040-Zero-Kicad")(options "")(descr ""))
   (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/deps/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "custom")(type "KiCad")(uri "${KIPRJMOD}/custom")(options "")(descr ""))
 )
