@@ -5,8 +5,6 @@ import storage
 import usb_cdc
 import usb_hid
 
-print(dir(usb_hid))
-
 from kb import KMKKeyboard
 from kmk.scanners import DiodeOrientation
 
