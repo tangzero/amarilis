@@ -4,3 +4,6 @@
 [submodule "pcb/deps/kbd"]
 	path = pcb/deps/kbd
 	url = git@github.com:tangzero/kbd.git
+[submodule "deps/kmk_firmware"]
+	path = deps/kmk_firmware
+	url = https://github.com/KMKfw/kmk_firmware.git
