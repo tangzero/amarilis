@@ -47,7 +47,7 @@
   (setup
     (pad_to_mask_clearance 0)
     (pcbplotparams
-      (layerselection 0x0001020_7ffffffe)
+      (layerselection 0x0001030_7ffffffe)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -77,7 +77,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../../../Downloads/amarilis/")
+      (outputdirectory "gerber/bottom-plate/")
     )
   )
 

@@ -4,3 +4,4 @@
 *.Identifier
 pcb/bottom-plate.kicad_pro
 pcb/top-plate.kicad_pro
+pcb/gerber/**
